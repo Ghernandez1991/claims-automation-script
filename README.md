@@ -11,6 +11,8 @@ Solution.
 The script takes a python list, iterates through it and for each item in the list creates a folder and places a word docx titled "contentions" inside the folder. 
 
 2-Script 2
+
+
 Problem
 When issuing checks after intercompany arbitration, it requires the user to change the claim loss details and update the liability percentage. In a case where comparative negligence was applied, the system reduces the payment by the percentage of negligence. However
 this requires adjusters to do the math and find out the amount of money required, before the comparative negligence is applied. 
@@ -21,7 +23,7 @@ The award is $9,000. We were found 40% at fault.
 Users would need to take 9000/.40 = 22,500 for claim center to apply 40% from $22,500. I have had more than several users ask me how to do this. 
 
 The script automates this process by selecting inputs(negligence % and money due) and completes the math operation. 
-The numbers are convert to floats and rounded to ensure a 2 digit number. 
+The numbers are converted to floats and rounded to ensure a 2 digit number. 
 
 I have pumped this out to an executable as well for use on non-python installed computers. 
 
