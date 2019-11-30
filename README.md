@@ -27,3 +27,10 @@ The numbers are converted to floats and rounded to ensure a 2 digit number.
 
 I have pumped this out to an executable as well for use on non-python installed computers. 
 
+
+
+3-Script 3
+When a decision is reached, I need to update the claim file with the decision and notify the adjuster. This is a time consuming process that takes numerous clicks to navigate to the decision and to type in the claim number repetitively. 
+
+Solution
+I wrote a python function using beautiful soup and spliter(selenium) to automate the process. The function takes in a user claim number, and then clicks its way to the decision with no more imput from the user. The function ends at the PDF version of the decision, allowing the user to download it. 
