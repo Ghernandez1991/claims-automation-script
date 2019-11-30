@@ -30,6 +30,8 @@ I have pumped this out to an executable as well for use on non-python installed 
 
 
 3-Script 3
+
+
 When a decision is reached, I need to update the claim file with the decision and notify the adjuster. This is a time consuming process that takes numerous clicks to navigate to the decision and to type in the claim number repetitively. 
 
 Solution
