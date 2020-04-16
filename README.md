@@ -37,4 +37,4 @@ When a decision is reached, I need to update the claim file with the decision an
 Solution
 
 
-I wrote a python function using beautiful soup and spliter(selenium) to automate the process. The function takes in a user claim number, and then clicks its way to the decision with no more imput from the user. The function ends at the PDF version of the decision, allowing the user to download it. 
+I wrote a python function using beautiful soup and spliter(selenium) to automate the process. The function takes in a user claim number or list of claim numbers, and then clicks its way to the decision with no more imput from the user. The function dowloads the PDF into your downloads folder of chrome, and names each PDF according to the corresponding PDF.
