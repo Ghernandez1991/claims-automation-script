@@ -13,7 +13,7 @@ The script takes a python list, iterates through it and for each item in the lis
 2-Script 2
 
 
-Problem
+Problem---------------------------------------------------------------------------------------------------------------------------------
 When issuing checks after intercompany arbitration, it requires the user to change the claim loss details and update the liability percentage. In a case where comparative negligence was applied, the system reduces the payment by the percentage of negligence. However
 this requires adjusters to do the math and find out the amount of money required, before the comparative negligence is applied. 
 
